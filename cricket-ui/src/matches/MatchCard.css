@@ -1,0 +1,44 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cards-info{
+    min-height: 100vh;
+    padding-top: 150px;
+    background-color: #f4f6f8;
+}
+
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    justify-items: center;
+}
+
+.match-card{
+    background-color: white;
+    border-radius: 10px;
+    width: 100%;
+    width: 280px;
+    padding: 35px;
+}
+
+.team1, .team2{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+@media (max-width: 1024px) {
+  .cards-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .cards-container {
+    grid-template-columns: 1fr;
+  }
+} */

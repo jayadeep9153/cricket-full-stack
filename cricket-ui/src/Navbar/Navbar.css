@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #1e3a8a; /* deep blue */
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
